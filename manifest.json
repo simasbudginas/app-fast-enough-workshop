@@ -1,0 +1,16 @@
+{
+    "name": "App Fast Enough?",
+    "background_color": "#fff",
+    "description": "PaySera Workshop.",
+    "icons": [
+        {
+            "src": "resources/icons/icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "density": 4.0
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "orientation": "landscape"
+}
